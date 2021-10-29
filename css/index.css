@@ -318,6 +318,10 @@ footer nav a {
 
 .topcontainer button{
     margin-bottom: 3%;
+    margin-top:2%;
+    background-color: white;
+    padding:6px;
+    border-radius: 4px;
 }
 /**/
 .bottomcontainer{
@@ -345,10 +349,23 @@ footer nav a {
 
 .bottomcontainer button{
     margin-bottom: 3%;
+    margin-top:2%;
+    background-color: white;
+    padding:6px;
+    border-radius: 4px;
 }
 
 /*summary styles*/
 .summary{
     margin-right: 31%;
     margin-left: 32%;
+    margin-bottom: 2%;
+}
+
+
+.container-about-page footer{
+    width:40%;
+    text-align: center;
+    margin-left: 30%;
+    margin-right:20%;
 }
