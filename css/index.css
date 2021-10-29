@@ -287,3 +287,14 @@ footer nav a {
     border-bottom: dotted black 2px;
 }
 
+.aboutsection p{
+    margin-bottom:2%;
+}
+
+/*main section styles*/
+.topcontainer{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 15%;
+    margin-left: 15%;
+}
