@@ -279,5 +279,11 @@ footer nav a {
     margin-bottom: 2%;
 }
 
-/*box styles*/
+/*about styles*/
+.aboutsection{
+    margin-right: 32%;
+    margin-left:32%;
+    margin-bottom: 3%;
+    border-bottom: dotted black 2px;
+}
 
