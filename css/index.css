@@ -315,3 +315,40 @@ footer nav a {
     border-bottom: dotted black 2px;
     margin-bottom: 2%;
 }
+
+.topcontainer button{
+    margin-bottom: 3%;
+}
+/**/
+.bottomcontainer{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 20%;
+    margin-left: 20%;
+    justify-content: center;
+}
+
+.bottomcontainer .bottomleft{
+    width:25%;
+    margin-right: 8%;
+    border-bottom: dotted black 2px;
+    margin-bottom: 2%; 
+    margin-top: 3%;
+}
+.bottomcontainer .bottomright{
+    width:25%;
+    margin-right: 3%;
+    border-bottom: dotted black 2px;
+    margin-bottom: 2%;
+    margin-top: 3%;
+}
+
+.bottomcontainer button{
+    margin-bottom: 3%;
+}
+
+/*summary styles*/
+.summary{
+    margin-right: 31%;
+    margin-left: 32%;
+}
